@@ -11,7 +11,7 @@
 
 ---
 
-- 🧑‍🎓 I’m an Undergraduate at Saegis Campus
+- 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
 
 - 🌱 I’m currently learning **Web development and Python**
 
