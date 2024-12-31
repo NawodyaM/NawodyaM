@@ -5,7 +5,7 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<p align="center"> <img src="https://NawodyaM.com/ghpvc/?username=NawodyaM&label=Profile%20views&color=0e75b6&style=flat" alt="NawodyaM" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=NawodyaM&label=Profile%20views&color=0e75b6&style=flat" alt="NawodyaM" /> </p>
 
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
